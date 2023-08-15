@@ -1,7 +1,22 @@
-Sure, here's the modified README with the code lines wrapped in bash:
+<style>
+/* Style for code block container */
+.code-container {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
 
-markdown
-Copy code
+/* Style for code block */
+.code {
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  white-space: pre-wrap;
+  margin: 0;
+}
+</style>
+<div class="code-container">
 # Laravel Vue Tailwind Basic Setup
 
 This repository provides a basic setup for a Laravel project with Vue.js and Tailwind CSS. Follow the steps below to set up the project on your local machine.
@@ -114,3 +129,4 @@ Feel free to explore and customize this basic setup to fit your project's requir
 csharp
 Copy code
 You can copy and paste this markdown into your README.md file on GitHub.
+</div>
