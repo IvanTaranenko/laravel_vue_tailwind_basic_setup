@@ -8,8 +8,9 @@ This repository provides a basic setup for a Laravel project with Vue.js and Tai
 
 To start, clone this repository to your local machine:
 
-
+```bash
 git clone https://github.com/IvanTaranenko/laravel_vue_tailwind_basic_setup.git
+```
 Install PHP Dependencies
 Navigate to the project directory and install the PHP dependencies using Composer:
 
@@ -83,7 +84,6 @@ Run the development server using Vite:
 
 Copy code
 ```bash
-
 npm run dev
 ```
 Tailwind CSS Setup
@@ -94,7 +94,6 @@ Install Tailwind CSS along with PostCSS and Autoprefixer:
 
 Copy code
 ```bash
-
 npm install -D tailwindcss postcss autoprefixer
 ```
 Initialize the Tailwind CSS configuration:
@@ -102,7 +101,6 @@ Initialize the Tailwind CSS configuration:
 
 Copy code
 ```bash
-
 npx tailwindcss init -p
 ```
 Laravel Breeze Installation
